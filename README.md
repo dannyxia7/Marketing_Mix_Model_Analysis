@@ -1,6 +1,6 @@
 # Marketing Mix Modeling: Reported vs. Modeled Revenue
 
-## 📌 Overview
+## Overview
 This project explores why **reported revenue from advertising platforms** (e.g., Facebook Ads, Google Ads, Pinterest) often differs from **modeled revenue derived through marketing mix modeling (MMM)**.  
 
 I designed this analysis to uncover:
@@ -12,7 +12,7 @@ The project compares data across **development (dev)** and **production (prod)**
 
 ---
 
-## 🎯 Motivation
+## Motivation
 Ad platforms have a vested interest in reporting inflated numbers — they want advertisers to see their channel as indispensable. However, business decisions require more **causal, conservative, and actionable metrics**.  
 
 By using MMM, I shift the perspective from **influence** to **incrementality**:
@@ -23,7 +23,7 @@ This reframing enables sharper, evidence-based decisions on where the **next mar
 
 ---
 
-## 📊 Key Analyses & Insights
+## Key Analyses & Insights
 
 ### 1. Reported Revenue (Dev vs. Prod)
 - **Dev**: Cleaner, aggregated data; smooth and stable trends.  
@@ -58,7 +58,7 @@ This reframing enables sharper, evidence-based decisions on where the **next mar
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 Based on this work:
 1. **Reallocate** spend away from saturated channels toward higher incremental ROI opportunities.  
 2. **Experiment** with overlapping channels to optimize combinations.  
